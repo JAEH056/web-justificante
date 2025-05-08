@@ -26,10 +26,10 @@ class Database extends Config
      */
     public array $default = [
         'DSN'          => '',
-        'hostname'     => 'localhost',
-        'username'     => '',
-        'password'     => '',
-        'database'     => '',
+        'hostname'     => 'justifica-tec-server.mysql.database.azure.com',
+        'username'     => 'srylzzvzzv',
+        'password'     => 'Accel056@',
+        'database'     => 'justifica-tec-database',
         'DBDriver'     => 'MySQLi',
         'DBPrefix'     => '',
         'pConnect'     => false,
