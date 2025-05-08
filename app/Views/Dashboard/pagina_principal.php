@@ -77,7 +77,7 @@
                         <div class="dot" attr="1" onclick="switchImage(this)"></div>
                     </div>
                 </div>
-                <script src="/js/slider.js"></script>
+                <script src="<?=base_url('assets/js/slider.js')?>"></script>
                 <br>
             </div>
         </center>
