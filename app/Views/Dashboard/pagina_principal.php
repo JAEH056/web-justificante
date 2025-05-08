@@ -65,8 +65,8 @@
                 <br>
                 <div class="slide-container">
                     <div class="slides">
-                        <img src="/imagenes/bienvenidos.jpg" class="active">
-                        <img src="/imagenes/itsh.jpg">
+                        <img src="<?=base_url('assets/imagenes/bienvenidos.jpg')?>" class="active">
+                        <img src="<?=base_url('assets/imagenes/itsh.jpg')?>">
                     </div>
                     <div class="buttons">
                         <span class="next" aria-label="Siguiente">&#10095;</span>
