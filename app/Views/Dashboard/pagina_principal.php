@@ -46,7 +46,7 @@
     <br>
     <nav class="menu">
         <div class="menu-header">
-            <button class="menu-toggle" aria-label="Abrir menú">☰</button>
+            <button class="menu-toggle" aria-label="Abrir menú">☰ Menú</button>
         </div>
         <ul class="menu-list">
             <li><a href="https://serranosistemas.xyz/">Inicio</a></li>
@@ -123,7 +123,7 @@
 
         <footer>
             © Copyright 2024 ITSH - Todos los Derechos Reservados
-            <br><a onclick='window.avisoprivacidad.showModal();'>Aviso de Privacidad</a>
+            <br><a onclick='window.avisoprivacidad.showModal();' style="cursor: pointer;">Aviso de Privacidad</a>
             <dialog id="avisoprivacidad">
                 <h2>Aviso de Privacidad</h2>
                 <p>
